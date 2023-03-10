@@ -1,6 +1,6 @@
 # Hi there👋, I'm Tejyash!
 ### Tech Enthusiast 🖥️ • Computer Science Undergrad 📝 • Fervent Learner ✨
-A highly stimulated freshman and a technology enthusiast who is in love with Computer Science and all it's aspects. An Avid Learner who's passionate about exploring new technologies and disciplines or anything that helps hone the skills and has a Never-say-die attitue to go about things.
+A technology enthusiast who is in love with Computer Science and all it's aspects. An Avid Learner who's passionate about exploring new technologies and disciplines or anything that helps hone the skills and has a Never-say-die attitue to go about things.
 
 - 🌟 Perseverance with a sincere hustle leads to success.
 
