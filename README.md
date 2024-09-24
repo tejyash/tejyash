@@ -2,16 +2,14 @@
 ### Tech Enthusiast 🖥️ • Computer Science Undergrad 📝 • Fervent Learner ✨
 A technology enthusiast who is in love with Computer Science and all it's aspects. An Avid Learner who's passionate about exploring new technologies and disciplines or anything that helps hone the skills and has a Never-say-die attitue to go about things.
 
-- 🌟 Perseverance with a sincere hustle leads to success.
-
 
 # About Me ✍️
 
-### - 🏫 Pursuing Bsc Computer Science at UoL 
+### - 🏫 Final Year, Bsc Computer Science at UoL 
 <!-- <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/mozilla/36/flag-for-united-kingdom_1f1ec-1f1e7.png" width="20" /> -->
-### - 👀 Fond of technologies like Game Design, Software Development, Efficient Arm SoCs, NVIDIA's Deep Learning Super Sampling, Machine Learning, and AI. (just to name a few)
-### - 🏸 Plays Casual Lawn tennis, Badminton, Football and Cricket
-### - 🎮 Loves Playing AAA Game titles, Current Favourite: 🕹️The Last of Us Part I
+### - 👀 Fond of Game Design, Software Development, Arm SoCs, and AI/ML. (just to name a few)
+### - 🏸 Plays Golf, Karting, and Badminton
+### - 🎮 Loves Playing AAA Game titles, Current Favourite: 🕹️ Horizon Zero Dawn
 
 # Tech Stack 📲
 ## Current 🗳️
