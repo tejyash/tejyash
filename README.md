@@ -7,7 +7,7 @@ A technology enthusiast who is in love with Computer Science and all it's aspect
 
 ### - 🏫 Final Year, Bsc Computer Science at UoL 
 <!-- <img align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/mozilla/36/flag-for-united-kingdom_1f1ec-1f1e7.png" width="20" /> -->
-### - 👀 Fond of Game Design, Software Development, Arm SoCs, and AI/ML. (just to name a few)
+### - 👀 Fond of Arificial Intellgience,Machine/Deep Learning, LLMs, Software Development, Arm SoCs, and Game Design. (just to name a few)
 ### - 🏸 Plays Golf, Karting, and Badminton
 ### - 🎮 Loves Playing AAA Game titles, Current Favourite: 🕹️ Horizon Zero Dawn
 
