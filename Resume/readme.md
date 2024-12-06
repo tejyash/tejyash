@@ -1,6 +1,6 @@
 # Tejyash Trilok
 
-**Email**: tejyash.trilok@example.com | **LinkedIn**: [linkedin.com/in/tejyashtrilok](https://linkedin.com/in/tejyashtrilok) | **GitHub**: [github.com/tejyashtrilok](https://github.com/tejyashtrilok)
+**Email**: tejyashtrilok@gmail.com | **LinkedIn**: [linkedin.com/in/tejyash](https://linkedin.com/in/tejyash) | **GitHub**: [github.com/tejyash](https://github.com/tejyash)
 
 ## Summary
 
