@@ -11,14 +11,6 @@ A technology enthusiast in love with Computer Science. I’m passionate about ex
 - **Interests:** Artificial Intelligence, Machine/Deep Learning, LLMs, Software Development, Arm SoCs, Game Design  
 - **Hobbies:** Golf, Karting, Badminton & Playing AAA Games (Current Favourite: Horizon Zero Dawn)
 
-## Current Projects 🚀
-
-### ImPromptU  
-A web-based prompt engineering platform that streamlines the creation, refinement, and evaluation of AI prompts for LLMs and Generative AI, reducing prompt iteration time by up to 40%.
-
-### BTTRFLTRS for LinkedIn  
-An innovative project aimed at delivering smarter, more relevant job recommendations by enhancing LinkedIn’s job filters.
-
 # Tech Stack 📲
 
 <small><b>Programming Languages</b></small>
